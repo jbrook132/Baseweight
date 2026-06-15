@@ -1,4 +1,4 @@
-const CACHE = "baseweight-v27";
+const CACHE = "baseweight-v28";
 
 // self.registration.scope resolves to the actual deployment URL,
 // so this works whether hosted at root or a subdirectory (e.g. /baseweight/)
